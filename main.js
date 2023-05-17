@@ -19,7 +19,9 @@ all.addEventListener("click", function () {
 webdesign.addEventListener("click", function () {
   mobileimg.forEach((e) => {
     // console.log(e);
-e.setAttribute('class','active')
+e.setAttribute('class','active');
+
+
     // e.style.display = "none";
   });
   logo.forEach((e) => {
