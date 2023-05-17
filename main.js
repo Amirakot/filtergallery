@@ -4,7 +4,7 @@ const webdesign = document.querySelector(".webd");
 console.log('hi')
 const mobile = document.querySelector(".mobilee");
 const front = document.querySelector(".logoo");
-const img = document.querySelectorAll(".img");
+const img = document.querySelectorAll(".imgg");
 const webimg = document.querySelectorAll(".web");
 const mobileimg = document.querySelectorAll(".mobile");
 const logo = document.querySelectorAll(".logo");
