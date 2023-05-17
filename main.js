@@ -8,7 +8,7 @@ const img = document.querySelectorAll(".imgg");
 const webimg = document.querySelectorAll(".web");
 const mobileimg = document.querySelectorAll(".mobile");
 const logo = document.querySelectorAll(".logo");
-
+console.log(logo)
 all.addEventListener("click", function () {
   img.forEach((e) => {
     e.removeAttribute('class',"active");
